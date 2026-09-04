@@ -4,4 +4,4 @@
 ## Notes: SHIFT + ALT + Right Click to buy max stack with partial filling
 ## Author: Bakhoj
 
-core/Core.lua
+Core.lua
