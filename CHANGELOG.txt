@@ -1,3 +1,5 @@
+# v0.2
+- Fixed issues related to CurseForge release.
 
 # v0.1
 - Inital Release, simple and static.

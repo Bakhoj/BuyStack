@@ -1,6 +1,6 @@
 ## Interface: 20506
 ## Title: BuyStack
-## Version: 0.1
+## Version: 0.2
 ## Notes: SHIFT + ALT + Right Click to buy max stack with partial filling
 ## Author: Bakhoj
 
