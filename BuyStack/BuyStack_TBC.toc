@@ -1,0 +1,7 @@
+## Interface: 20505
+## Title: BuyStack
+## Version: 0.1
+## Notes: SHIFT + ALT + Right Click to buy max stack with partial filling
+## Author: Bakhoj
+
+core/Core.lua
