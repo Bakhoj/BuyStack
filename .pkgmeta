@@ -1,7 +1,6 @@
 package-as: BuyStack
 
 manual-changelog: CHANGELOG.txt
-license-output: LICENSE
 
 ignore:
     - "*.md"
